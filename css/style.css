@@ -10,11 +10,12 @@ body{
    margin-top: 4vh;
 }
 .nav{
-    display: flex;
-    justify-content: space-evenly;
+    /* display: flex; */
+    /* justify-content:center; */
 }
 .links{
     margin-top: 2vh;
+    margin-right:150px ;
 }
 .links a{
     margin-left: 2vw;
@@ -25,10 +26,19 @@ body{
 .logo{
     height: 60px;
     width: 60px;
+    margin-left: 250px;
+}
+.icons{
+    margin-top: 2vh;
+    margin-right: 150px;
 }
 .firstIcon{
     color: white;
+    margin-right: 30px;
+    font-size: 23px;
 }
 .secondIcon{
     color: white;
+    margin-right: 20px;
+    font-size: 23px;
 }
